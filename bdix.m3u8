@@ -1,7 +1,8 @@
 
 
 #EXTM3U 
-
+#EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD ch
+http://starshare.live:8080/live/XVl3He8Dwq/6Pl59IkK6i/130714.ts
 
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD
 http://103.141.2.37:25461/live/web/web/545.ts
