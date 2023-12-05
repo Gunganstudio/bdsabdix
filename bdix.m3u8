@@ -9,6 +9,8 @@ http://103.141.2.37:25461/live/web/web/545.ts
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
+#EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD
+https://live.bongobd.com/hls/CrQGAcGkgYrPnHItCT66vg/1701787789/zee_cinema_hd.m3u8
 #EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex
 http://103.141.2.37:25461/live/web/web/547.m3u8
 #EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex  Ristey
