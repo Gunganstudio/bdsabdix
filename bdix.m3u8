@@ -4,7 +4,7 @@
 
 
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD
-http://103.141.2.37:25461/live/web/web/545.m3u8
+http://103.141.2.37:25461/live/web/web/545.ts
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeCinema/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD
