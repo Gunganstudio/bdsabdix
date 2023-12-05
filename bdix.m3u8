@@ -92,7 +92,7 @@ http://103.141.2.37:25461/live/web/web/589.m3u8
 #EXTINF: -1 tvg-name="Independent" tvg-logo="http://10.11.12.13/img/indepen.png" group-title="Bangla", Independent
 http://103.141.2.37:25461/live/web/web/590.m3u8
 #EXTINF: -1 tvg-name="Sony_Aath" tvg-logo="https://i.postimg.cc/QCYYVLDr/S8.jpg" group-title="Bangla", Sony_Aath
-http://iptvtree.net:8080/live/jinbox/mGDn7NqvgQpM8arMWz/17005.ts
+http://iptvtree.net:8080/live/jinbox/mGDn7NqvgQpM8arMWz/17005.m3u8
 #EXTINF: -1 tvg-name="71" tvg-logo="http://10.11.12.13/img/71.jpg" group-title="Bangla", 71
 http://103.141.2.37:25461/live/web/web/594.m3u8
 #EXTINF: -1 tvg-name="Channel I" tvg-logo="http://10.11.12.13/img/channeli.jpg" group-title="Bangla", Channel I
