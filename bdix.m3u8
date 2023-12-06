@@ -56,6 +56,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/index.m3u8
 http://170.254.18.107/SONYMAX/index.m3u8
 #EXTINF: -1 tvg-name="Sony Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Hindi", Sony Max FHD
 http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
+#EXTINF: -1 tvg-name="Sony Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Hindi", Sony Max FHD
+http://208.86.19.13:81/706.stream/index.m3u8
 
 #EXTINF: -1 tvg-name="Zee TV" tvg-logo="http://10.11.12.13/img/zeetv.png" group-title="Hindi", Zee TV
 http://103.141.2.37:25461/live/web/web/553.m3u8
@@ -109,8 +111,13 @@ http://103.141.2.37:25461/live/web/web/599.m3u8
 http://103.141.2.37:25461/live/web/web/600.m3u8
 #EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="http://10.11.12.13/img/colorsbangla.jpg" group-title="Bangla", Colors Bangla
 http://103.141.2.37:25461/live/web/web/601.m3u8
+#EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="http://10.11.12.13/img/colorsbangla.jpg" group-title="Bangla", Colors Bangla
+http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF: -1 tvg-name="Zee Bangla HD" tvg-logo="http://10.11.12.13/img/zeebanglahd.jpg" group-title="Bangla", Zee Bangla HD
 http://103.141.2.37:25461/live/web/web/602.m3u8
+#EXTINF: -1 tvg-name="Zee Bangla FHD" tvg-logo="http://10.11.12.13/img/zeebanglahd.jpg" group-title="Bangla", Zee Bangla HD
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audio_208482_und=208000-video=2137600.m3u8
+
 #EXTINF: -1 tvg-name="Star Jalsha" tvg-logo="https://i.ibb.co/16RJdyw/Star-Jalsha-logo-2023.png" group-title="Bangla", Star Jalsha
 http://103.141.2.37:25461/live/web/web/603.m3u8
 #EXTINF: -1 tvg-name="Star Jalsha" tvg-logo="https://i.ibb.co/16RJdyw/Star-Jalsha-logo-2023.png" group-title="Bangla", Star Jalsha
@@ -148,8 +155,12 @@ http://103.141.2.37:25461/live/web/web/578.m3u8
 http://103.141.2.37:25461/live/web/web/579.m3u8
 #EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="http://10.11.12.13/img/stersports1hd.jpg" group-title="Sports", Ster Sports 1 HD
 http://103.141.2.37:25461/live/web/web/580.m3u8
+#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="http://10.11.12.13/img/stersports1hd.jpg" group-title="Sports", Ster Sports 1 HD
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF: -1 tvg-name="Ster Sport-2 HD" tvg-logo="http://10.11.12.13/img/ster-sport-2hd.png" group-title="Sports", Ster Sport-2 HD
 http://iptvtree.net:8080/live/jinbox/mGDn7NqvgQpM8arMWz/62584.ts
+#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="http://10.11.12.13/img/stersports1hd.jpg" group-title="Sports", Ster Sports 2 HD
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF: -1 tvg-name="Sony Ten3" tvg-logo="http://10.11.12.13/img/sonyten3.jpg" group-title="Sports", Sony Ten3
 http://103.141.2.37:25461/live/web/web/582.m3u8
 #EXTINF: -1 tvg-name="Select2" tvg-logo="http://10.11.12.13/img/select2.jpg" group-title="Sports", Select2
@@ -169,8 +180,12 @@ http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
 #EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangla", GTV
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
 
+#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangla", GTV
+http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
 http://103.141.2.37:25461/live/web/web/586.m3u8
+#EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
+http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
 https://cdn.sajeeb.online/T-Sports-HD/mono.m3u8
 #EXTINF: -1 tvg-name="T Sports FHD" tvg-logo="https://i.ibb.co/TP0j34M/T-Sports-logo.png" group-title="Sports", T Sports FHD
@@ -197,3 +212,6 @@ https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/index.m3u8
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary FHD 
 http://tv.bdvision.live:8080/live/Sajib96/9601776975773/575.ts
+
+#EXTINF: -1 tvg-name="Zee Bangla HD" tvg-logo="http://10.11.12.13/img/zeebanglahd.jpg" group-title="Bangla", Animal Planet
+https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
