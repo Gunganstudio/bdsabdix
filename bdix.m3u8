@@ -36,7 +36,7 @@ http://103.141.2.37:25461/live/web/web/548.m3u8
 #EXTINF: -1 tvg-name="Zee Action" tvg-logo="https://cdn.bongo-solutions.com/abfea462-f64d-491e-9cd9-75ee001f45b0/content/2b43c88f-23c6-4168-9f77-f1065775df0a/f47e57b1-077f-49dc-b4eb-c7d5e464910a.png" group-title="Hindi", Zee Action
 http://103.141.2.37:25461/live/web/web/549.m3u8
 #EXTINF: -1 tvg-name="Star Gold2 HD" tvg-logo="https://i.ibb.co/TY4dvHQ/image.jpg" group-title="Hindi", Star Gold2 FHD
-http://103.141.2.37:25461/live/web/web/550.m3u8
+http://iptvtree.net:8080/live/jinbox/mGDn7NqvgQpM8arMWz/297547.m3u8
 #EXTINF: -1 tvg-name="Star Gold2 HD" tvg-logo="https://i.ibb.co/TY4dvHQ/image.jpg" group-title="Hindi", Star Gold2 FHD
 http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/index.m3u8
 #EXTINF: -1 tvg-name="Star Gold2 HD" tvg-logo="https://i.ibb.co/TY4dvHQ/image.jpg" group-title="Hindi", Star Gold2 HD
@@ -149,7 +149,7 @@ http://103.141.2.37:25461/live/web/web/579.m3u8
 #EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="http://10.11.12.13/img/stersports1hd.jpg" group-title="Sports", Ster Sports 1 HD
 http://103.141.2.37:25461/live/web/web/580.m3u8
 #EXTINF: -1 tvg-name="Ster Sport-2 HD" tvg-logo="http://10.11.12.13/img/ster-sport-2hd.png" group-title="Sports", Ster Sport-2 HD
-http://103.141.2.37:25461/live/web/web/581.m3u8
+http://iptvtree.net:8080/live/jinbox/mGDn7NqvgQpM8arMWz/62584.ts
 #EXTINF: -1 tvg-name="Sony Ten3" tvg-logo="http://10.11.12.13/img/sonyten3.jpg" group-title="Sports", Sony Ten3
 http://103.141.2.37:25461/live/web/web/582.m3u8
 #EXTINF: -1 tvg-name="Select2" tvg-logo="http://10.11.12.13/img/select2.jpg" group-title="Sports", Select2
