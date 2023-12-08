@@ -13,6 +13,8 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/index.m3u8
 https://live.bongobd.com/hls/CrQGAcGkgYrPnHItCT66vg/1701787789/zee_cinema_hd.m3u8
 #EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex
 http://103.141.2.37:25461/live/web/web/547.m3u8
+#EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex MALTI
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex  Ristey
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/Colors_Cineplex_voot_MOB-audio_98835_eng=98800-video=356400.m3u8
 #EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex
@@ -119,6 +121,8 @@ http://103.141.2.37:25461/live/web/web/601.m3u8
 #EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="http://10.11.12.13/img/colorsbangla.jpg" group-title="Bangla", Colors Bangla
 http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="http://10.11.12.13/img/colorsbangla.jpg" group-title="Bangla", Colors Bangla Cinema FTP
+https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
+
 
 
 #EXTINF: -1 tvg-name="Zee Bangla HD" tvg-logo="http://10.11.12.13/img/zeebanglahd.jpg" group-title="Bangla", Zee Bangla HD
