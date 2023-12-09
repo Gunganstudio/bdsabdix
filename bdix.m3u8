@@ -231,16 +231,16 @@ http://103.141.2.37:25461/live/web/web/584.m3u8
 http://103.141.2.37:25461/live/web/web/585.m3u8
 
 
-#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangla", GTV
+#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Sports", GTV
 http://103.141.2.37:25461/live/web/web/592.m3u8
-#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangla", GTV
+#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Sports", GTV
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/.m3u8
-#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangla", GTV
+#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Sports", GTV
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/index.m3u8
-#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangla", GTV
+#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Sports", GTV
 https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
 
-#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Bangla", GTV
+#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Sports", GTV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
 http://103.141.2.37:25461/live/web/web/586.m3u8
