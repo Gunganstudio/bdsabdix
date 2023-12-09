@@ -245,3 +245,27 @@ http://tv.bdvision.live:8080/live/Sajib96/9601776975773/575.ts
 
 #EXTINF: -1 tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/fxTPfL5/Animal-Planet-Vertical-One-Line-Large-RGB-002.jpg" group-title="Others", Animal Planet
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
+
+
+
+
+#FOOTBALL
+
+
+
+#EXTINF: -1 tvg-name="Ssc sport extra" tvg-logo="https://i.postimg.cc/3J8NDZYD/images_(1).jpg" group-title="Football ", Ssc sport extra1
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_1.m3u8
+#EXTINF: -1 tvg-name="Ssc sport extra" tvg-logo="https://i.postimg.cc/3J8NDZYD/images_(1).jpg" group-title="Football ",  Ssc sport extra2:
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_2.m3u8
+#EXTINF: -1 tvg-name="Ssc sport extra" tvg-logo="https://i.postimg.cc/3J8NDZYD/images_(1).jpg" group-title="Football ", Ssc sport extra3:
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_3.m3u8
+#EXTINF: -1 tvg-name="Ssc sport extra" tvg-logo="https://i.postimg.cc/3J8NDZYD/images_(1).jpg" group-title="Football ", Ssc sport 1:
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_1.m3u8
+#EXTINF: -1 tvg-name="Ssc sport extra" tvg-logo="https://i.postimg.cc/3J8NDZYD/images_(1).jpg" group-title="Football ", Ssc sport 2:
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_2.m3u8
+#EXTINF: -1 tvg-name="Ssc sport extra" tvg-logo="https://i.postimg.cc/3J8NDZYD/images_(1).jpg" group-title="Football ", Ssc sport 3:
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_3.m3u8
+#EXTINF: -1 tvg-name="Ssc sport extra" tvg-logo="https://i.postimg.cc/3J8NDZYD/images_(1).jpg" group-title="Football ", Ssc sport 4:
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_4.m3u8
+#EXTINF: -1 tvg-name="Ssc sport extra" tvg-logo="https://i.postimg.cc/3J8NDZYD/images_(1).jpg" group-title="Football ", Ssc sport 5:
+https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_5.m3u8
