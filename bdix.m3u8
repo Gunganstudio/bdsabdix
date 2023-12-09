@@ -58,6 +58,8 @@ http://tv.dugdugilive.com:8080/0ne$ky23/StarGold/index.m3u8
 http://103.141.2.37:25461/live/web/web/555.m3u8
 #EXTINF: -1 tvg-name="Star Gold" tvg-logo="https://i.ibb.co/TY4dvHQ/image.jpg" group-title="Hindi", Star Gold HDX
 http://go.justflix.tv:80/client120/aarab.amar/185
+#EXTINF: -1 tvg-name="Star Gold" tvg-logo="https://i.ibb.co/TY4dvHQ/image.jpg" group-title="Hindi", Star Gold HDX
+http://144.217.70.181:9587/hin2/UTVMOVIESHD/tracks-v1a1/mono.m3u8?token=test
 
 #EXTINF: -1 tvg-name="Sony" tvg-logo="http://10.11.12.13/img/sonyen.png" group-title="Hindi", Sony
 http://103.141.2.37:25461/live/web/web/551.m3u8
