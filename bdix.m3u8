@@ -221,6 +221,10 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
 #EXTINF: -1 tvg-name="SPORTS 18" tvg-logo="http://www.kulfi.live/img/18.png" group-title="Sports", SPORTS 18
 http://103.141.2.37:25461/live/web/web/588.m3u8
+
+#EXTINF: -1 tvg-name="Super SPORTS" tvg-logo="http://www.kulfi.live/img/18.png" group-title="Sports", SUPER SPORTS 
+http://142.54.172.138/premium368/playlist.m3u8?ddd=Pl5NHMeCwA
+
 #EXTINF: -1 tvg-name="T-SPORTS" tvg-logo="http://10.11.12.13/img/madani.jpg" group-title="Sports", T-SPORTS
 http://103.141.2.37:25461/live/web/web/618.m3u8
 #EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="http://10.11.12.13/img/stersports1hd.jpg" group-title="Sports", Ster Sports 1 HD
