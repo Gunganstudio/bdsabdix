@@ -76,7 +76,10 @@ http://144.217.70.181:9587/hin2/SONYMAXHD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF: -1 tvg-name="Sony Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Hindi", Sony Max FHD
 http://208.86.19.13:81/706.stream/index.m3u8
 #EXTINF: -1 tvg-name="Sony Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Hindi", Sony Max FHDx
-http://go.justflix.tv:80/client120/aarab.amar/97
+http://go.justflix.tv:80/live/client120/aarab.amar/97.m3u8
+
+#EXTINF: -1 tvg-name="Sony Max HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png" group-title="Hindi", Sony Max FHDx
+http://livetvbox.live:8080/live/Juan/Juan/151.m3u8
 
 #EXTINF: -1 tvg-name="Zee TV" tvg-logo="http://10.11.12.13/img/zeetv.png" group-title="Hindi", Zee TV
 http://103.141.2.37:25461/live/web/web/553.m3u8
