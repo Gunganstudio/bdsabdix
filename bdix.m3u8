@@ -242,6 +242,8 @@ http://103.141.2.37:25461/live/web/web/567.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/index.m3u8
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary FHD 
 http://tv.bdvision.live:8080/live/Sajib96/9601776975773/575.ts
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary LOWX
+http://zainapps.xyz:8080/live/zen57286858/05539443223/252074.ts
 
 #EXTINF: -1 tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/fxTPfL5/Animal-Planet-Vertical-One-Line-Large-RGB-002.jpg" group-title="Others", Animal Planet
 https://denver1769.pages.dev/Discovery/animal_planet_hd_hindi.m3u8
