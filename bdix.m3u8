@@ -250,6 +250,8 @@ https://mh-sports.mhapurbo1.repl.co/MH-SPORTS/Gazi_Tv/hls/index.m3u8
 
 #EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Sports", GTV
 http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF: -1 tvg-name="GTV" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png" group-title="Sports", GTV FTP 
+https://cdn8.aliflailabd.com/GAZI/tracks-v2a1/mono.m3u8?
 #EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
 http://103.141.2.37:25461/live/web/web/586.m3u8
 #EXTINF: -1 tvg-name="T Sports" tvg-logo="https://i.postimg.cc/W3ZZgP0c/T_Sports_logo.png" group-title="Sports", T Sports
