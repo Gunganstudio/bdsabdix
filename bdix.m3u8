@@ -129,6 +129,8 @@ http://103.109.56.116/live/skyfeed1006/index.m3u8
 http://zainapps.xyz:8080/live/zen57286858/05539443223/252135.ts
 #EXTINF: -1 tvg-name="Star Star Jalsha" tvg-logo="https://i.postimg.cc/pVs6sjF1/Sb.jpg" group-title="Bangla", Star Jalsha FTP
 http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8
+#EXTINF: -1 tvg-name="Star Star Jalsha" tvg-logo="https://i.postimg.cc/pVs6sjF1/Sb.jpg" group-title="Bangla", Star Jalsha FTP
+https://cdn8.aliflailabd.com/star-jalsha/tracks-v1a1/mono.m3u8?
 #EXTINF: -1 tvg-name="Sun Bangla" tvg-logo="http://10.11.12.13/img/sunbangla.jpg" group-title="Bangla", Sun Bangla
 http://103.141.2.37:25461/live/web/web/589.m3u8
 #EXTINF: -1 tvg-name="Independent" tvg-logo="http://10.11.12.13/img/indepen.png" group-title="Bangla", Independent
@@ -139,6 +141,9 @@ http://iptvtree.net:8080/live/jinbox/mGDn7NqvgQpM8arMWz/17005.m3u8
 http://zainapps.xyz:8080/live/zen57286858/05539443223/252128.ts
 #EXTINF: -1 tvg-name="Sony_Aath" tvg-logo="https://i.postimg.cc/QCYYVLDr/S8.jpg" group-title="Bangla", Sony_Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
+#EXTINF: -1 tvg-name="Sony_Aath" tvg-logo="https://i.postimg.cc/QCYYVLDr/S8.jpg" group-title="Bangla", Sony_Aath FTP
+https://cdn8.aliflailabd.com/sony-aath/tracks-v1a1/mono.m3u8?
+
 #EXTINF: -1 tvg-name="71" tvg-logo="http://10.11.12.13/img/71.jpg" group-title="Bangla", 71
 http://103.141.2.37:25461/live/web/web/594.m3u8
 #EXTINF: -1 tvg-name="Channel I" tvg-logo="http://10.11.12.13/img/channeli.jpg" group-title="Bangla", Channel I
@@ -158,28 +163,36 @@ http://103.141.2.37:25461/live/web/web/599.m3u8
 http://103.141.2.37:25461/live/web/web/600.m3u8
 #EXTINF: -1 tvg-name="Jalsha_Movies" tvg-logo="https://i.ibb.co/kJcpDB5/APkr-FKay-r-R-Rrz-OIF-y-Wm-Uiv-GTd-R2-GY56-Il-KEg-J1-Zfg-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="Bangla", Jalsha_Movies FTP 
 http://tv.dugdugilive.com:8080/0ne$ky23/jalshamovies/index.m3u8
-#EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="http://10.11.12.13/img/colorsbangla.jpg" group-title="Bangla", Colors Bangla
+#EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="https://img.viewcineplex.com/images/colorsbangla.png" group-title="Bangla", Colors Bangla BDIX
 http://103.141.2.37:25461/live/web/web/601.m3u8
-#EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="http://10.11.12.13/img/colorsbangla.jpg" group-title="Bangla", Colors Bangla
+#EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="https://img.viewcineplex.com/images/colorsbangla.png" group-title="Bangla", Colors Bangla FTP
 http://103.109.56.116/live/skyfeed1017/index.m3u8
-#EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="http://10.11.12.13/img/colorsbangla.jpg" group-title="Bangla", Colors Bangla Cinema FTP
+#EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="https://img.viewcineplex.com/images/colorsbangla.png" group-title="Bangla", Colors Bangla FTP
+https://cdn8.aliflailabd.com/colors-bangla/tracks-v1a1/mono.m3u8?
+#EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="https://img.viewcineplex.com/images/Untitled-36.gif" group-title="Bangla", Colors Bangla Cinema FTP
 http://tv.dugdugilive.com:8080/0ne$ky23/colors-bangla/index.m3u8
-#EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="http://10.11.12.13/img/colorsbangla.jpg" group-title="Bangla", Colors Bangla MALTI
+#EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="https://img.viewcineplex.com/images/Untitled-36.gif" group-title="Bangla", Colors Bangla Cinema FTP
+https://cdn8.aliflailabd.com/colors-bangla-cinema/tracks-v1a1/mono.m3u8?
+#EXTINF: -1 tvg-name="Colors Bangla" tvg-logo="https://img.viewcineplex.com/images/Untitled-36.gif" group-title="Bangla", Colors Bangla MALTI
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Bangla_HD_voot_MOB/Fallback/index.m3u8
 
 
 
-#EXTINF: -1 tvg-name="Zee Bangla HD" tvg-logo="http://10.11.12.13/img/zeebanglahd.jpg" group-title="Bangla", Zee Bangla HD
+#EXTINF: -1 tvg-name="Zee Bangla HD" tvg-logo="https://img.viewcineplex.com/images/zeebangla.png" group-title="Bangla", Zee Bangla HD
 http://103.141.2.37:25461/live/web/web/602.m3u8
-#EXTINF: -1 tvg-name="Zee Bangla HD" tvg-logo="http://10.11.12.13/img/zeebanglahd.jpg" group-title="Bangla", Zee Bangla HD MALTI
+#EXTINF: -1 tvg-name="Zee Bangla HD" tvg-logo="https://img.viewcineplex.com/images/zeebangla.png" group-title="Bangla", Zee Bangla HD MALTI
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglahd/default/index.m3u8
-#EXTINF: -1 tvg-name="Zee Bangla FHD" tvg-logo="http://10.11.12.13/img/zeebanglahd.jpg" group-title="Bangla", Zee Bangla HD
+#EXTINF: -1 tvg-name="Zee Bangla FHD" tvg-logo="https://img.viewcineplex.com/images/zeebangla.png" group-title="Bangla", Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/zeebanglahd-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF: -1 tvg-name="Zee Bangla FHD" tvg-logo="http://10.11.12.13/img/zeebanglahd.jpg" group-title="Bangla", Zee Bangla HD FTP
+#EXTINF: -1 tvg-name="Zee Bangla FHD" tvg-logo="https://img.viewcineplex.com/images/zeebangla.png" group-title="Bangla", Zee Bangla HD FTP
 http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/index.m3u8
-#EXTINF: -1 tvg-name="Zee Bangla FHD" tvg-logo="http://10.11.12.13/img/zeebanglahd.jpg" group-title="Bangla", Zee Bangla Cinema FTP
+#EXTINF: -1 tvg-name="Zee Bangla FHD" tvg-logo="https://img.viewcineplex.com/images/zeebangla.png" group-title="Bangla", Zee Bangla HD FTP 2
+https://cdn8.aliflailabd.com/zee-bangla-HD/tracks-v1a1/mono.m3u8?
+#EXTINF: -1 tvg-name="Zee Bangla FHD" tvg-logo="https://img.viewcineplex.com/images/zeebanglacinema.png" group-title="Bangla", Zee Bangla Cinema FTP
 http://103.109.56.116/live/funtime111/index.m3u8
-#EXTINF: -1 tvg-name="Zee Bangla FHD" tvg-logo="http://10.11.12.13/img/zeebanglahd.jpg" group-title="Bangla", Zee Bangla Cinema  MALTI
+#EXTINF: -1 tvg-name="Zee Bangla FHD" tvg-logo="https://img.viewcineplex.com/images/zeebanglacinema.png" group-title="Bangla", Zee Bangla Cinema FTP
+https://cdn8.aliflailabd.com/zee-bangla-cinema/tracks-v1a1/mono.m3u8?
+#EXTINF: -1 tvg-name="Zee Bangla FHD" tvg-logo="https://img.viewcineplex.com/images/zeebanglacinema.png" group-title="Bangla", Zee Bangla Cinema  MALTI
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/index.m3u8
 
 
@@ -217,18 +230,24 @@ http://103.141.2.37:25461/live/web/web/613.m3u8
 http://103.141.2.37:25461/live/web/web/587.m3u8
 #EXTINF: -1 tvg-name="Sony SIX HD" tvg-logo="http://10.11.12.13/img/Sony-six-hd.png" group-title="Sports", Sony SIX HD
 http://103.141.2.37:25461/live/web/web/577.m3u8
-#EXTINF: -1 tvg-name="Star Sports3" tvg-logo="http://10.11.12.13/img/star_sports3.jpg" group-title="Sports", Star Sports3
+#EXTINF: -1 tvg-name="Star Sports3" tvg-logo="https://img.viewcineplex.com/images/starsports3.png" group-title="Sports", Star Sports3
 http://103.141.2.37:25461/live/web/web/578.m3u8
+#EXTINF: -1 tvg-name="Star Sports3" tvg-logo="https://img.viewcineplex.com/images/starsports3.png" group-title="Sports", Star Sports3
+https://cdn8.aliflailabd.com/star-sports-3/tracks-v1a1/mono.m3u8?
 #EXTINF: -1 tvg-name="Star_Sports_1_HD" tvg-logo="http://10.11.12.13/img/Star_Sports_Select_1_HD.jpg" group-title="Sports", Star_Sports_1_HD
 http://103.141.2.37:25461/live/web/web/579.m3u8
-#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="http://10.11.12.13/img/stersports1hd.jpg" group-title="Sports", Ster Sports 1 HD
+#EXTINF: -1 tvg-name="Star_Sports_1_HD" tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="Sports", Star_Sports_1_HD FTP
+https://cdn8.aliflailabd.com/star-sports-1/tracks-v1a1/mono.m3u8?
+#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="Sports", Ster Sports 1 HD
 http://103.141.2.37:25461/live/web/web/580.m3u8
-#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="http://10.11.12.13/img/stersports1hd.jpg" group-title="Sports", Ster Sports 1 HD
+#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="https://img.viewcineplex.com/images/starsports1.png" group-title="Sports", Ster Sports 1 HD
 http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF: -1 tvg-name="Ster Sport-2 HD" tvg-logo="http://10.11.12.13/img/ster-sport-2hd.png" group-title="Sports", Ster Sport-2 HD
+#EXTINF: -1 tvg-name="Ster Sport-2 HD" tvg-logo="https://img.viewcineplex.com/images/starsports2hd.png" group-title="Sports", Ster Sport-2 HD
 http://iptvtree.net:8080/live/jinbox/mGDn7NqvgQpM8arMWz/62584.ts
-#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="http://10.11.12.13/img/stersports1hd.jpg" group-title="Sports", Ster Sports 2 HD
+#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="https://img.viewcineplex.com/images/starsports2hd.png" group-title="Sports", Ster Sports 2 HD
 http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF: -1 tvg-name="Ster Sports 1 HD" tvg-logo="https://img.viewcineplex.com/images/starsports2hd.png" group-title="Sports", Ster Sports 2 HD
+https://cdn8.aliflailabd.com/star-sports-2/index.m3u8?
 #EXTINF: -1 tvg-name="Sony Ten3" tvg-logo="http://10.11.12.13/img/sonyten3.jpg" group-title="Sports", Sony Ten3
 http://103.141.2.37:25461/live/web/web/582.m3u8
 #EXTINF: -1 tvg-name="Select2" tvg-logo="http://10.11.12.13/img/select2.jpg" group-title="Sports", Select2
