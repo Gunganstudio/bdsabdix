@@ -335,8 +335,8 @@ https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 https://tv.durbinlive.com/api/dc/Discovery_Bangla.m3u8
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary  BDIX
 http://103.141.2.37:25461/live/web/web/567.m3u8
-#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary FTP 
-http://tv.dugdugilive.com:8080/0ne$ky23/Discovery/index.m3u8
+#EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary Malti 
+https://raw.githubusercontent.com/shiki57/infinitysports/main/discovery.m3u8
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary FTP 2
 https://cdn8.aliflailabd.com/discovery/tracks-v1a1/mono.m3u8?
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary FHD 
