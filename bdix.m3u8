@@ -1,8 +1,8 @@
 
 
 #EXTM3U 
-#EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD MAC
-http://livetvbox.live:8080/live/7878/7878/230.ts
+#EXTINF: -1 tvg-name="Zee Cinema WHD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD MAC
+https://jiotv.pp.ua/app/strmm.php?cid=165&id=Zee_Cinema_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD MAC 2
 http://Supersonictv.live:8080/live/309298/746090/78937.ts
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema BDIX
@@ -30,12 +30,17 @@ http://tv.dugdugilive.com:8080/0ne$ky23/AndPictures/index.m3u8
 http://103.141.2.37:25461/live/web/web/547.m3u8
 #EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex MALTI
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/index.m3u8
-#EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex  Ristey
-https://prod-ent-live-gm.jiocinema.com/bpk-tv/Colors_Cineplex_voot_MOB/Fallback/Colors_Cineplex_voot_MOB-audio_98835_eng=98800-video=356400.m3u8
+#EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex  wHD
+https://jiotv.pp.ua/app/strmm.php?cid=482&id=Colors_Cineplex_MOB-audio_98836_eng=98800-video=1680400.m3u8
 #EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex
 https://prod-ent-live-gm.jiocinema.com/bpk-tv/Rishtey_Cineplex_voot_MOB/Fallback/index.m3u8
 #EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex  RistE FTP
 http://tv.dugdugilive.com:8080/0ne$ky23/CinePlex/tracks-v1a1/mono.m3u8
+
+#EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex Superhit
+https://jiotv.pp.ua/app/strmm.php?cid=1450&id=Rishtey_Cineplex_MOB-audio_98836_eng=98800-video=863200.m3u8
+
+
 #EXTINF: -1 tvg-name="Colors Cineplex" tvg-logo="https://i.postimg.cc/JhvSDd0J/h1-3.jpg" group-title="Hindi", Colors Cineplex FTP
 https://cdn8.aliflailabd.com/colors-cineplex-bollywood/index.m3u8?
 #EXTINF: -1 tvg-name="Enterr 10" tvg-logo="http://10.11.12.13/img/enterr10.jpeg" group-title="Hindi", Enterr 10
