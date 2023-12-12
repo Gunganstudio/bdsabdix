@@ -342,7 +342,7 @@ https://cdn8.aliflailabd.com/discovery/tracks-v1a1/mono.m3u8?
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary FHD 
 http://tv.bdvision.live:8080/live/Sajib96/9601776975773/575.ts
 #EXTINF: -1 tvg-name="Discovary  HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others", Discovary LOWX
-http://zainapps.xyz:8080/live/zen57286858/05539443223/252074.ts
+https://jiotv.pp.ua/app/strmm.php?cid=573&id=Discovery_Channel_Bengali_MOB-audio_110034_eng=110000-video=1390000.m3u8
 #EXTINF: -1 tvg-name=" National Geographic HD" tvg-logo="https://i.ibb.co/th4yLpg/discovery.png" group-title="Others",  National Geographic FTP
 https://cdn8.aliflailabd.com/Nat-Geo-HD/index.m3u8?
 #EXTINF: -1 tvg-name="Animal Planet" tvg-logo="https://i.ibb.co/fxTPfL5/Animal-Planet-Vertical-One-Line-Large-RGB-002.jpg" group-title="Others", Animal Planet
