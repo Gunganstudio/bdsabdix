@@ -160,6 +160,9 @@ http://103.141.2.37:25461/live/web/web/589.m3u8
 https://cdn8.aliflailabd.com/sunbangla/tracks-v1a1/mono.m3u8?
 #EXTINF: -1 tvg-name="Independent" tvg-logo="http://10.11.12.13/img/indepen.png" group-title="Bangla", Independent
 http://103.141.2.37:25461/live/web/web/590.m3u8
+#EXTINF: -1 tvg-name="Sony_Aath" tvg-logo="https://i.postimg.cc/QCYYVLDr/S8.jpg" group-title="Bangla", Sony_Aath 1
+https://1rdk.short.gy/Himel-Op/Bioscope/sony-aath-sd.m3u8|User-Agent=iPhone
+
 #EXTINF: -1 tvg-name="Sony_Aath" tvg-logo="https://i.postimg.cc/QCYYVLDr/S8.jpg" group-title="Bangla", Sony_AathX
 http://iptvtree.net:8080/live/jinbox/mGDn7NqvgQpM8arMWz/17005.m3u8
 #EXTINF: -1 tvg-name="Sony_Aath" tvg-logo="https://i.postimg.cc/QCYYVLDr/S8.jpg" group-title="Bangla", Sony_Aath LOWX
