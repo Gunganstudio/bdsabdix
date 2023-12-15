@@ -188,6 +188,8 @@ http://103.141.2.37:25461/live/web/web/598.m3u8
 
 #EXTINF: -1 tvg-name="Zee_Bangla_Cinema" tvg-logo="http://10.11.12.13/img/Zee_Bangla_Cinema.jpg" group-title="Bangla", Zee_Bangla
 http://103.109.56.116/live/skyfeed1006/index.m3u8
+#EXTINF: -1 tvg-name="Colore Bangla Cinema" tvg-logo="http://10.11.12.13/img/colore-bangla-cinema.jpg" group-title="Bangla", Colore Bangla Cinema B
+https://edge4.bioscopelive.com/hls/anonymous/AU4w_S9rReqD4DBN97KxMQ/1702652057/live-colors-bangla-cinema.m3u8#
 #EXTINF: -1 tvg-name="Colore Bangla Cinema" tvg-logo="http://10.11.12.13/img/colore-bangla-cinema.jpg" group-title="Bangla", Colore Bangla Cinema
 http://103.141.2.37:25461/live/web/web/599.m3u8
 #EXTINF: -1 tvg-name="Jalsha_Movies" tvg-logo="https://i.ibb.co/kJcpDB5/APkr-FKay-r-R-Rrz-OIF-y-Wm-Uiv-GTd-R2-GY56-Il-KEg-J1-Zfg-s900-c-k-c0x00ffffff-no-rj.jpg" group-title="Bangla", Jalsha_Movies AHDB
