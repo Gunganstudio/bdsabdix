@@ -1,10 +1,8 @@
 
 
 #EXTM3U 
-#EXTINF: -1 tvg-name="Zee Cinema WHD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD MAC
+#EXTINF: -1 tvg-name="Zee Cinema WHD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD
 https://jiotv.pp.ua/app/strmm.php?cid=165&id=Zee_Cinema_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8
-#EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD MAC 2
-http://Supersonictv.live:8080/live/309298/746090/78937.ts
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema BDIX
 http://103.141.2.37:25461/live/web/web/545.ts
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD FTP
@@ -378,11 +376,15 @@ https://1rdk.short.gy/9XJH/Himel-Op
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YhbYKff/sangeet-bangla.jpg" group-title="MUSIC", Sangeet Bangla
 https://1rdk.short.gy/SB/Himel-Op
 
-
 #FOOTBALL
-
-
-
+#EXTINF: -1 tvg-name="Sony Ten 1 " tvg-logo="https://www.vianet.com.np/images/channel-list/HD/sony%20ten%201%20hd.jpg" group-title="Football ", Sony Ten 1
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-1-live
+#EXTINF: -1 tvg-name="Sony Ten 2" tvg-logo="https://i.ibb.co/C5njmLY/Sony-TEN2-Masthead-Logo.png" group-title="Football ",Sony ten 2
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-2-live
+#EXTINF: -1 tvg-name="Sony Ten 3" tvg-logo="https://i.ibb.co/w7D9dtx/sony.jpg" group-title="Football ",Sony Ten 3
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-3-live
+#EXTINF: -1 tvg-name="Sony Ten 5" tvg-logo="https://i.ibb.co/VvkL14t/SONY-Sports-Ten5-HD-Logo-CLR.png" group-title="Football ", Sony Ten 5
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-5
 #EXTINF: -1 tvg-name="Ssc sport extra" tvg-logo="https://i.postimg.cc/3J8NDZYD/images_(1).jpg" group-title="Football ", Ssc sport extra1
 https://s1.bein-kora.live:5443/YallaGoalApp/streams/Teletv_SSC_Sport_Extra_1.m3u8
 #EXTINF: -1 tvg-name="Ssc sport extra" tvg-logo="https://i.postimg.cc/3J8NDZYD/images_(1).jpg" group-title="Football ",  Ssc sport extra2:
