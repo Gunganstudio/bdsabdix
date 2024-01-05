@@ -2,7 +2,7 @@
 
 #EXTM3U 
 #EXTINF: -1 tvg-name="Zee Cinema WHD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD
-https://jiotv.pp.ua/app/strmm.php?cid=165&id=Zee_Cinema_HD_MOB-audio_98835_eng=98800-video=1173600.m3u8
+https://bdsatv24.000webhostapp.com/api/Ayna.php?id=27
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema BDIX
 http://103.141.2.37:25461/live/web/web/545.ts
 #EXTINF: -1 tvg-name="Zee Cinema HD" tvg-logo="https://i.postimg.cc/kGmHN17Q/h1-2.jpg" group-title="Hindi", Zee Cinema HD FTP
